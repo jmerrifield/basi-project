@@ -23,11 +23,21 @@ Simply distributing the content electronically, while a significant advantage, d
 
 ## 3.2. Wiki
 
-A wiki is defined (by Wikipedia) as “a website which allows people to add, modify, or delete the content via a web browser usually using a simplified markup language or a rich-text editor. Wikis use specialized wiki software and are usually created collaboratively.”, and described as having the following key characteristics:
+A wiki is defined (by Wikipedia) as:
 
-A wiki invites all users to edit any page or to create new pages within the wiki Web site, using only a plain-vanilla Web browser without any extra add-ons.
-Wiki promotes meaningful topic associations between different pages by making page link creation almost intuitively easy and showing whether an intended target page exists or not.
-A wiki is not a carefully crafted site for casual visitors. Instead, it seeks to involve the visitor in an ongoing process of creation and collaboration that constantly changes the Web site landscape.
+> a website which allows people to add, modify, or delete the content via a web browser usually using a simplified markup language or a rich-text editor. Wikis use specialized wiki software and are usually created collaboratively.
+>
+> <small>Wikipedia <cite title="Source Title">https://en.wikipedia.org/wiki/Wiki</cite></small>
+
+They are described as having the following key characteristics:
+
+> A wiki invites all users to edit any page or to create new pages within the wiki Web site, using only a plain-vanilla Web browser without any extra add-ons.
+>
+> Wiki promotes meaningful topic associations between different pages by making page link creation almost intuitively easy and showing whether an intended target page exists or not.
+>
+> A wiki is not a carefully crafted site for casual visitors. Instead, it seeks to involve the visitor in an ongoing process of creation and collaboration that constantly changes the Web site landscape.
+>
+> <small>Ward Cunningham and Bo Leuf <cite title="Source Title">The Wiki Way: Quick Collaboration on the Web</cite></small>
 
 This is notably different from the traditional structured training materials issued by organisations, which attempt to define a large body of knowledge as a start-to-finish journey, often facing significant difficulty actually deciding how to subdivide their knowledge and in what sequence to present it.
 
