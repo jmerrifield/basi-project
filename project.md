@@ -100,6 +100,28 @@ Some mechanism needs to be in place for consumers to ask questions about the inf
 This section will draw on the principles explained in the previous section, to walk through how an online training manual could function.
 
 ## 4.1 Content creation
+
+Essentially the content will be a wiki, consisting of a loosely-structured set of interlinked pages. They will be composed using a constrained authoring language called Markdown, described as follows:
+
+> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
+>
+> <small>John Gruber <cite title="Source Title">http://daringfireball.net/projects/markdown</cite></small>
+
+It allows for the following constructs: 
+
+* Headings (up to 6 levels deep)
+* Paragraphs
+* Emphasis around words (*emphasised* or **strong**)
+* Bullet lists (such as this one)
+* Numbered lists
+* Block quotes
+* Links
+* Images
+
+The content creation experience looks like the following:
+
+![content creation](screenshots/content-creation.png)
+
 ## 4.2 Content consumption
 ## 4.3 Offline access
 ## 4.4 Keeping history
